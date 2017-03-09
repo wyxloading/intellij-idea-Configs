@@ -1,0 +1,4 @@
+IdeaVIM
+Jindent - Source Code Formatter
+com.poratu.idea.plugins.tomcat
+net.vektah.codeglance
