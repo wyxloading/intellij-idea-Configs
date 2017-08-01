@@ -3,7 +3,7 @@
     <property name="created">2017-02-15T15:08:03</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-02-15T16:33:50</property>
+    <property name="modified">2017-05-31T15:50:22</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <font>
@@ -10320,7 +10320,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="32593d" />
+        <option name="BACKGROUND" value="5032" />
         <option name="EFFECT_COLOR" value="3c704b" />
         <option name="ERROR_STRIPE_COLOR" value="61936f" />
       </value>

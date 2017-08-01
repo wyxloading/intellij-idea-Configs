@@ -1,4 +1,7 @@
+BashSupport
+Batch Scripts Support
 IdeaVIM
-Jindent - Source Code Formatter
-com.poratu.idea.plugins.tomcat
+Lombook Plugin
+com.intellij.plugins.thrift
+com.jetbrains.plugins.ini4idea
 net.vektah.codeglance

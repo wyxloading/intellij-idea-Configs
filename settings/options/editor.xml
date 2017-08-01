@@ -3,4 +3,12 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="important" pattern=".*wyx.*" />
+    <filter name="wyx">
+      <pattern index="2" />
+    </filter>
+  </component>
 </application>
